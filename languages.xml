@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<languages>
+	<English>
+		<string name = "Language">Language</string>
+		<string name = "Audio">Audio</string>
+		<string name = "Graphics">Graphics</string>
+	</English>
+	
+	<Russian>
+		<string name = "Language">Язык</string>
+		<string name = "Audio">Звуки</string>
+		<string name = "Graphics">Графика</string>
+	</Russian>
+</languages>
